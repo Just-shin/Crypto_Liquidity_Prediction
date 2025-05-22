@@ -2,15 +2,16 @@
 
 ## Summary of Findings
 The most important features affecting liquidity were:
-- [List significant features]
-- [Key insights on data]
+- Price volatility.
+- Liquidity prediction is strongly correlated with [e.g., 24h volume and price volatility].
 
 ## Model Performance
-- Best Model: [Model name]
+- Best Model: [RandomForestRegressor]
 - Metrics:
-  - MAE: [value]
-  - MSE: [value]
-  - R² Score: [value]
+  - MAE: [0.0374]
+  - RMSE: [0.1681]
+  - R² Score: [0.7706]
+  - Tuned R² Score: [0.8069167158009142]
 
 ## Key Insights
 - Liquidity is influenced by volatility and trading volume.

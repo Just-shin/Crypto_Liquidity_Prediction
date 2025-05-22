@@ -11,9 +11,9 @@
 - Liquidity-related ratios
 
 ## Model Training
-- Algorithms: [e.g., RandomForest, XGBoost]
-- Train/test split or cross-validation
-- Metrics: MAE, MSE, R²
+- Algorithms: RandomForest
+- Train/test split
+- Metrics: MAE, RMSE, R²
 
 ## Evaluation
 - Metrics in table
